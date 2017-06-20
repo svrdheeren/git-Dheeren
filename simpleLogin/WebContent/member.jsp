@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Welcome to Home page
+Welcome to Home page, more functionalities are coming coon!
 </body>
 </html>
