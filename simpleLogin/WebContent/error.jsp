@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Sorry Wrong Credentials!!!
+Sorry Wrong Credentials!!! Be sure to enter correct one:-)
 </body>
 </html>
