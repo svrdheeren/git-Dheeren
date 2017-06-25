@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Invalid Credentials</title>
 </head>
 <body>
 Sorry Wrong Credentials!!! Be sure to enter correct one..
